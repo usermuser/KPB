@@ -106,7 +106,7 @@ ul,ol         { list-style:none; }
 	width: 100px;
 }
 .section-title p{
-	color: #9c9c9c;
+	color: #FFF;
 	font-size: 16px;
 	font-style: italic;
 	text-align: center;
@@ -139,7 +139,7 @@ ul,ol         { list-style:none; }
 }
 
 .header_part{
-	background: url("images/background.jpg") repeat scroll center center / cover  rgba(0, 0, 0, 0);
+	background: url("images/3.jpg") repeat scroll center center / cover  rgba(0, 0, 0, 0);
 	overflow: hidden;
 }
 .navbar-default {
@@ -297,7 +297,7 @@ ul,ol         { list-style:none; }
 =====================================================================*/
 .contact_section{
 	overflow: hidden;
-	background: none repeat scroll 0 0 #18191a;
+	background: none repeat scroll 0 0 #043b51;
 	color: #fff;
 }
 .contact_head{
